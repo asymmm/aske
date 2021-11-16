@@ -1,0 +1,86 @@
+body {
+  background-color: chartreuse;
+  margin: 0;
+  padding: 0;
+}
+.reg {
+  margin-left: 30%;
+  color: black;
+  padding-top: 50px;
+}
+
+#mmm {
+  color: red;
+  font-size: 30px;
+}
+
+.text {
+  color: blue;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin-right: 100px;
+}
+
+.text1 {
+  color: blue;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin-right: 50px;
+}
+
+#login {
+  padding: 10px;
+  border: red;
+  border-radius: 5px;
+}
+
+#password {
+  padding: 10px;
+  margin-top: 5px;
+  border: red;
+  border-radius: 5px;
+}
+
+#bass {
+  margin-top: 20px;
+  text-align: center;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: blueviolet;
+  font-size: 20px;
+  color: wheat;
+}
+
+.section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+h1,
+h4 {
+  color: rgb(45, 56, 202);
+}
+
+.img {
+  height: 600px;
+  width: 500px;
+  border-radius: 30px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-around;
+}
+
+.button button a {
+  text-decoration: none;
+  color: rgb(45, 56, 202);
+}
+/* .result{
+    text-align: center;
+    color: red;
+} */ ;
